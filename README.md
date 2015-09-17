@@ -1,1 +1,9 @@
 保存一些有用的库的链接，简介
+
+https://github.com/fluentribbon/Fluent.Ribbon
+
+https://github.com/Glimpse/Glimpse
+
+https://github.com/MahApps/MahApps.Metro
+
+https://github.com/reactiveui/ReactiveUI
