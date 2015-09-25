@@ -7,3 +7,5 @@ https://github.com/Glimpse/Glimpse
 https://github.com/MahApps/MahApps.Metro
 
 https://github.com/reactiveui/ReactiveUI
+
+https://github.com/oxyplot/oxyplot
