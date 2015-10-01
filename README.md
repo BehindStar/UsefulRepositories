@@ -17,3 +17,5 @@ https://github.com/aspnet/EntityFramework
 https://github.com/jdiamond/Nustache
 
 https://github.com/Reactive-Extensions/Rx.NET
+
+* 中文文档 https://mcxiaoke.gitbooks.io/rxdocs/content/
